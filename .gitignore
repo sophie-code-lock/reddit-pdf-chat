@@ -1,0 +1,9 @@
+# Ignore output PDF files
+output.pdf
+output_*.pdf
+
+# Ignore the images directory
+images/
+
+# Ignore the chats JSON file
+chats.json
