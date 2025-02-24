@@ -1,4 +1,4 @@
-# Chat PDF Generator
+# Reddit Chat PDF Generator
 
 A Python script that reads a JSON file of chat messages and converts them into one or more PDF documents. The script supports embedding images referenced in the chats and includes progress logs, page numbering, and automatic PDF splitting when a specified page limit is reached.
 
